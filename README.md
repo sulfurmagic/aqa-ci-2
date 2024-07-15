@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/cr08wefr235bxmur?svg=true)](https://ci.appveyor.com/project/sulfurmagic/aqa-ci-2)
